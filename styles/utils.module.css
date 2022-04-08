@@ -1,0 +1,15 @@
+.avatar {
+    border: 1px solid;
+    border-radius: 50%;
+
+}
+.justifyCenter{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.content{
+    margin: 2rem;
+    min-height: 400px;
+}
